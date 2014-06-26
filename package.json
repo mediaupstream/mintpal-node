@@ -1,0 +1,38 @@
+{
+  "name": "mintpal-node",
+  "version": "0.0.1",
+  "description": "Mintpal.com NodeJS API client.",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.36.0",
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {
+    "jasmine-node": "*"
+  },
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mediaupstream/mintpal-node.git"
+  },
+  "keywords": [
+    "mintpal",
+    "mintpal-node",
+    "bitcoin",
+    "altcoin",
+    "alt",
+    "btc",
+    "litecoin",
+    "ltc",
+    "api",
+    "exchange"
+  ],
+  "author": "Derek Anderson <derek@mediaupstream.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mediaupstream/mintpal-node/issues"
+  },
+  "homepage": "https://github.com/mediaupstream/mintpal-node"
+}
