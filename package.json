@@ -1,6 +1,6 @@
 {
   "name": "mintpal-node",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "description": "Mintpal.com NodeJS API client.",
   "main": "index.js",
   "dependencies": {
