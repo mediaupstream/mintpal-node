@@ -1,3 +1,6 @@
 language: node_js
-node_js:
-    - "0.10"
+deploy:
+  api_key:
+    secure: ECOTMU1Qz2CXcIvKCE1BSI4cJm8L6kvSwfmsK5K1GHzRVzXfmZkDFSAiM9BTacUqhU/7Km3eVORgmAQLJgi1wzGM7wfY76cCgC1BdyLR5bGDUDiuJmiwpKWdJuvhIrd/2MyM+dUrfM0e7zMMg7byYDA8pK0YTM/AXKQPUa1F694=
+  email: derek@mediaupstream.com
+  provider: npm
