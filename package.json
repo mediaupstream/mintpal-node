@@ -1,5 +1,5 @@
 {
-  "name": "mintpal-node",
+  "name": "mintpal",
   "version": "0.1.2",
   "description": "Mintpal.com NodeJS API client.",
   "main": "index.js",

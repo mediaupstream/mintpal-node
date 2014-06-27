@@ -245,8 +245,6 @@ Run the existing test spec with `npm test`.
 
 #### Support this project
 
-<script data-gittip-username="mediaupstream" data-gittip-widget="button" src="//gttp.co/v1.js"></script>
-  
-BTC 1EkGJfpcAi6oeq1ooEjgzHVuRvc1HdvuXu   
-LTC LKPvk8RQsoYpmS9ajoXVoMUtAVpTJ8R9zH   
-CRYPT Esug5bcsMkQ9m2kMPtLpz2thwXSjyMtxkw   
+__BTC__ 1EkGJfpcAi6oeq1ooEjgzHVuRvc1HdvuXu   
+__LTC__ LKPvk8RQsoYpmS9ajoXVoMUtAVpTJ8R9zH   
+__CRYPT__ Esug5bcsMkQ9m2kMPtLpz2thwXSjyMtxkw   
